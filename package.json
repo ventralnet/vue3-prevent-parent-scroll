@@ -1,7 +1,7 @@
 {
-  "name": "vue-prevent-parent-scroll",
-  "version": "1.0.5",
-  "description": "A Vue directive that prevents vertical scrolling outside the current element when top or bottom are reached.",
+  "name": "vue3-prevent-parent-scroll",
+  "version": "1.0.6",
+  "description": "A Vue3 directive that prevents vertical scrolling outside the current element when top or bottom are reached.",
   "main": "dist/main.js",
   "scripts": {
     "build": "webpack -p",
@@ -10,10 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rhyek/vue-prevent-parent-scroll.git"
+    "url": "git+https://github.com/ventralnet/vue3-prevent-parent-scroll.git"
   },
   "keywords": [
     "vue",
+    "vue3",
     "directive",
     "prevent",
     "parent",
@@ -22,9 +23,9 @@
   "author": "https://github.com/rhyek",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rhyek/vue-prevent-parent-scroll/issues"
+    "url": "https://github.com/ventralnet/vue3-prevent-parent-scroll/issues"
   },
-  "homepage": "https://github.com/rhyek/vue-prevent-parent-scroll#readme",
+  "homepage": "https://github.com/ventralnet/vue3-prevent-parent-scroll#readme",
   "devDependencies": {
     "ts-loader": "^2.0.0",
     "typescript": "^2.1.5",
