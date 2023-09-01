@@ -29,6 +29,7 @@
   "devDependencies": {
     "ts-loader": "^2.0.0",
     "typescript": "^2.1.5",
+    "vue": "^3.3.4",
     "webpack": "^2.2.1",
     "webpack-fail-plugin": "^1.0.5"
   }
